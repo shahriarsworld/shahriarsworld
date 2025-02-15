@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Md Shahriar Hossain!<br>🎓 Computer Science & Engineering Student | 💻 Passionate Developer | 🚀 Tech Enthusiast<br><br>I'm a B.Sc. student majoring in Computer Science and Engineering at Port City International University. I have a strong passion for software development, problem-solving, and exploring new technologies.<br><br>🚀 Tech Stack & Skills:<br>🔹 Programming Languages: Python, JavaScript, C, C++, Java, PHP<br>🔹 Web Technologies: HTML, CSS<br>🔹 Database: Oracle<br>🔹 Version Control: Git & GitHub<br>🔹 Other Interests: Software Development, Data Structures & Algorithms, Problem Solving<br><br>🌱 Currently Learning & Exploring:<br>Advanced Web Development & Backend Technologies<br>Database Management & Optimization<br>Competitive Programming & Algorithmic Thinking
+👋 Hi, I'm Md Shahriar Hossain!<br>🎓 Computer Science & Engineering Student | 💻 Passionate Developer | 🚀 Tech Enthusiast<br><br>I'm a B.Sc. student majoring in Computer Science and Engineering at Port City International University. I have a strong passion for software development, problem-solving, and exploring new technologies.<br><br>
 
 
 ## 🌐 Socials:
