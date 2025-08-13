@@ -2,7 +2,6 @@
 # 👋 Hi, I'm Md Shahriar Hossain
 
 A curious builder on a journey from **code labs to real-world apps** 🚀
-
 ---
 
 ## 🧠 What I'm Doing Right Now
@@ -11,7 +10,6 @@ A curious builder on a journey from **code labs to real-world apps** 🚀
 - 🧪 Learning **Machine Learning** using Python  
 - 🔧 Building full-stack ML projects with **FastAPI** & **React**  
 - 🎯 Focused on turning research & models into **practical, usable tools**
-
 ---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shahriarsworld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshahriarhossain7) 
