@@ -7,8 +7,8 @@ A curious builder on a journey from **code labs to real-world apps** 🚀
 
 ## 🧠 What I'm Doing Right Now
 
-- 🧩 Exploring **Data Structures & Algorithms** through daily problem solving  
-- 🧪 Learning **Machine Learning** using Python  
+- 🧩 Exploring **Data Science & Machine Learning**  
+- 🧪 Learning **AI Automation**  
 - 🔧 Building full-stack ML projects with **FastAPI** & **React**  
 - 🎯 Focused on turning research & models into **practical, usable tools**
 ---
